@@ -1,0 +1,13 @@
+[
+       { "name": "Bel Rey",
+         "publisher": "Fibury",
+         "price": "100000000000000000000000000000000",
+         "img":{
+           "src": "media/doomling.png",
+           "alt": "doomling"
+         },
+         "desc": "<p>Bla ble bli blo blu</p>",
+         "link": "https://www.fibury.com",
+         "tweet":"test"
+       }
+]
