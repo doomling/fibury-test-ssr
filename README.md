@@ -8,3 +8,5 @@ npm intall
 to run
 
 npm run build && npm run start
+
+and it should be available on http://localhost:3000/
